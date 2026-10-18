@@ -1145,8 +1145,6 @@ ggraph(ppi_graph, layout = "fr")
   sig_sc   # Stroke vs Control significant genes
   sig_cd   # Control vs Diabetes significant genes
   sig_sd   # Stroke vs Diabetes significant genes
- 
-  
   
   
   
