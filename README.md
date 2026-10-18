@@ -1,12 +1,12 @@
-# RNA-Seq-Differential-Expression-Analysis
+# RNA-Seq-Differential-Expression-Analysis-Stroke-Diabetes-RNASeq-Analysis
 End-to-end RNA-Seq differential gene expression analysis pipeline using HISAT2, HTSeq, DESeq2, FastQC, MultiQC, and Machine Learning for Stroke vs Diabetes transcriptomic analysis.
+# RNA-Seq Differential Expression Analysis
 
-End-to-end RNA-Seq differential gene expression analysis pipeline using HISAT2, HTSeq, DESeq2, FastQC, MultiQC, and Machine Learning for Stroke vs Diabetes transcriptomic analysis.
-RNA-Seq Differential Expression Analysis
-Overview
+## Overview
 
 This project performs an end-to-end RNA-Seq differential expression analysis to compare transcriptomic profiles of Stroke, Type-2 Diabetes, and Healthy Control samples.
-Workflow
+
+## Workflow
 
 SRA Download
 
@@ -41,25 +41,26 @@ Visualization
 ↓
 
 Machine Learning Validation
-Dataset
 
-    Organism: Homo sapiens
-    Samples: 9
-    Platform: Illumina
-    GEO: GSE186844
+## Dataset
 
-Tools
+- Organism: Homo sapiens
+- Samples: 9
+- Platform: Illumina
+- GEO: GSE186844
 
-    FastQC
-    MultiQC
-    HISAT2
-    Samtools
-    HTSeq
-    DESeq2
-    R
-    Python
+## Tools
 
-Results
+- FastQC
+- MultiQC
+- HISAT2
+- Samtools
+- HTSeq
+- DESeq2
+- R
+- Python
+
+## Results
 
 ✔ PCA Plot
 
@@ -72,7 +73,8 @@ Results
 ✔ Pathway Enrichment
 
 ✔ Machine Learning Classification
-Author
+
+## Author
 
 Vajid Sayyad
 
