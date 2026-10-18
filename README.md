@@ -1,7 +1,7 @@
 # RNA-Seq-Differential-Expression-Analysis-Stroke-Diabetes-RNASeq-Analysis
 
 "Differential Expression Analysis of Stroke and Diabetes RNA-Seq Data with Observational Training in a Stroke Animal Model".
-using animal like mouse and rat sample and i used for stroke and diabtes type 1 mouse and his brain sample tissue  
+using animal like mouse and rat sample and i used for stroke and diabtes type 1 mouse and his brain tissue sample 
 
 
 End-to-end RNA-Seq differential gene expression analysis pipeline using HISAT2, HTSeq, DESeq2, FastQC, MultiQC, and Machine Learning for Stroke vs Diabetes transcriptomic analysis.
